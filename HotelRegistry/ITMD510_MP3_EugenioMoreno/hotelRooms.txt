@@ -1,0 +1,16 @@
+Room Number,Room Type,Maximum Occupancy
+100,One King Bed,2
+101,Two Double Beds,4
+102,One King Bed,2
+103,Two Double Beds and One Cot,5
+104,One Queen Bed,2
+105,One King Bed,2
+106,One Queen Bed,2
+107,Two Double Beds,4
+108,One Queen Bed,2
+109,Two Double Beds and One Cot,5
+110,Two Double Beds,4
+111,Two Double Beds,4
+112,Two Double Beds,4
+113,Two Double Beds,4
+114,One King Bed,2

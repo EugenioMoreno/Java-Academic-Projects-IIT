@@ -1,0 +1,8 @@
+SKU|Description|UnitPrice
+APPLES|Apple|20
+CARROT|Carrot|126
+ABACON|Bacon|237
+REDWIN|Red Wine Bottle|1288
+WHTWIN|White Wine Bottle|1000
+BANANA|Banana|79
+ASTEAK|American Steak|1609

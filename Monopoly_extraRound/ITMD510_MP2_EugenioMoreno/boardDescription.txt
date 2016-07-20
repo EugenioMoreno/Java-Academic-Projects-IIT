@@ -1,0 +1,41 @@
+//Index;typeOfSpace;Name;creditPaid
+0;Space;Go;200
+1;Property;Mediterranean Avenue;60
+3;Property;Baltic Avenue;60
+6;Property;Oriental Avenue;100
+8;Property;Vermont Avenue;100
+9;Property;Connecticut Avenue;120
+11;Property;St. Charles Place;140
+13;Property;States Avenue;140
+14;Property;Virginia Avenue;160
+16;Property;St. James Place;180
+18;Property;Tennessee Avenue;180
+19;Property;New York Avenue;200
+21;Property;Kentucky Avenue;220
+23;Property;Indiana Avenue;220
+24;Property;Illinois Avenue;240
+26;Property;Atlantic Avenue;260
+27;Property;Ventnor Avenue;260
+29;Property;Marvin Gardens;280
+31;Property;Pacific Avenue;300
+32;Property;North Carolina Avenue;300
+34;Property;Pennsylvania Avenue;320
+37;Property;Park Place;350
+39;Property;Boardwalk;400
+4;TaxOffice;Income Tax;200
+38;TaxOffice;Luxury Tax;100
+5;RailRoad;Reading Railroad;200
+15;RailRoad;Pennsylvania Railroad;400
+25;RailRoad;B&O Railroad;600
+35;RailRoad;Short Line Railroad;800
+12;Supplier;Electric Company;5
+28;Supplier;Water Works;10
+30;GoToJail;Go to Jail;0
+10;Space;Jail ;0
+20;Space;Free Parking ;0
+7;Chance;Chance;0
+22;Chance;Chance;0
+36;Chance;Chance;0
+2;CommunityChest;CommunityChest;0
+17;CommunityChest;CommunityChest;0
+33;CommunityChest;CommunityChest;0
